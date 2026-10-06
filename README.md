@@ -1,8 +1,8 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Bindu Hosea Marbun </h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=binhoseA">
-    <img src="https://komarev.com/ghpvc/?username=binhoseA&label=Profile%20views&color=00FFFF&style=flat-square" alt="binhoseA's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=binshoseA">
+    <img src="https://komarev.com/ghpvc/?username=binshoseA&label=Profile%20views&color=00FFFF&style=flat-square" alt="binshoseA's profile views" />
   </a>
 </p>
 
@@ -19,16 +19,16 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/binhoseA">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=binhoseA&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="binhoseA's GitHub Stats" />
+  <a href="https://github.com/binshoseA">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=binshoseA&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="binshoseA's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=binhoseA&theme=github_dark&hide_border=true&cache_seconds=86400" alt="binhoseA's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=binshoseA&theme=dark&hide_border=true&cache_seconds=86400" alt="binshoseA's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=binhoseA&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bindu Hosea Marbun 's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=binshoseA&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bindu Hosea Marbun 's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=binhoseA&theme=github_dark&radius=10" alt="binhoseA's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=binshoseA&theme=dark&radius=10" alt="binshoseA's Activity Graph" />
 </p>
 
 
@@ -88,8 +88,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/binhoseA">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=binhoseA&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/binshoseA">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=binshoseA&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -109,6 +109,6 @@
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
